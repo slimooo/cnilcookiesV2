@@ -1,21 +1,19 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: CNIL Cookies
+title: Le
+keywords: rgpd, cnil, cookies, conformité, google analytics,
 description: >-
-  Ephesus - Minimalist Jekyll Theme
-lang: en-US
-timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
-google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
-discus-identifier:  XXX
+  Le guide ultime pour auditer votre site internet et vérifier que le dépôt de cookie est conforme au RGPD
+lang: fr-FR
+timezone:  Europe/Paris
+
+
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
-  picture: assets/images/profile.jpg 
+  name: Jack SARK
+  bio: Travaille, joue et geek
+  picture: assets/images/profile.jpg
   github: onepase # github username
   twitter: onepase # twitter username
   facebook: onepase # facebook username
@@ -26,7 +24,7 @@ author:
 
 
 # URL settings
-url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
+url: "https://cnil-cookies.site" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
 markdown: kramdown
@@ -58,7 +56,7 @@ collections:
   posts:
     output: true
     permalink: /:slug
-  
+
 defaults:
   -
     scope:
