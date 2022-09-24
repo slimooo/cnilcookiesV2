@@ -91,6 +91,7 @@ La mise en œuvre de cette technique peut être détectée dans les flux réseau
 Pour information, nous vous signalons que la CNIL a également mis à la disposition du public son
 outil d’analyse de site web « [CookieViz](https://linc.cnil.fr/fr/cookieviz-une-dataviz-en-temps-reel-du-tracking-de-votre-navigation) » qui permet d’obtenir les mêmes résultats mais de manière plus ergonomique (rappel ; toutes les solutions et outils cités dans le présent document ne le sont qu’à titre indicatif, la sélection et la validation des outils revenant à la MOE).
 
+Cette méthodologie peut être réalisée soit même ou par l'intermédiaire d'un cabinet de conseil qui réalisera l'[audit RGPD / cookie de votre site internet](https://indatable.com/audit-rgpd-du-site-internet/).
 
 
 
